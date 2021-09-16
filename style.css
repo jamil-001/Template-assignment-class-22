@@ -32,6 +32,10 @@ body,h1,h2,h3,h4,h5,h6,p,span,a{
     background: #8490ff;
     border: 0;
 }
+.img-bg img{
+background:transparent;
+   
+}
 /* .img-bg img{
 
 width: 450px;
